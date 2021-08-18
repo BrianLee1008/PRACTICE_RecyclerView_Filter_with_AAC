@@ -1,0 +1,2 @@
+rootProject.name = "Practice_RecyclerView_Filter_With_MVVM"
+include ':app'
